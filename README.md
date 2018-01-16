@@ -1,2 +1,6 @@
 # SDI
-Software Design and Implementation
+Embedded System
+##Project Description
+##Group 
+student
+##Tutor Pedro Machado <Pedro.baptistamachado@ntu.ac.uk>
